@@ -12,8 +12,11 @@ http://mozilla.github.io/nunjucks/
 
 ## JS Plugins
 Sort/Filter tables - http://www.listjs.com/
+
 Autocomplete (couldn't make the demo work) - https://leaverou.github.io/awesomplete/
+
 WYSWYG editor - http://quilljs.com/
+
 Polyfill for Picture Element (Go Retina!) - http://scottjehl.github.io/picturefill/
 
 
