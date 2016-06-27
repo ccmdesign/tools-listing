@@ -11,4 +11,13 @@ http://mozilla.github.io/nunjucks/
 
 
 ## JS Plugins
-http://www.listjs.com/
+Sort/Filter tables - http://www.listjs.com/
+Autocomplete (couldn't make the demo work) - https://leaverou.github.io/awesomplete/
+WYSWYG editor - http://quilljs.com/
+Polyfill for Picture Element (Go Retina!) - http://scottjehl.github.io/picturefill/
+
+
+## CSS Skinning
+Animation gallery - http://anicollection.github.io/#/
+Responsive CSS - http://bradfrost.com/demo/ish/
+
