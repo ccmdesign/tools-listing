@@ -2,15 +2,19 @@
 
 ## Accessibility Tools
 http://squizlabs.github.io/HTML_CodeSniffer/
+
 http://www.3pillarglobal.com/insights/accessibility-testing-tools-and-techniques
+
 https://tenon.io/testNow.php?url=http://demo.citizenbudget.com/
 
 
 ## Templating
+
 http://mozilla.github.io/nunjucks/
 
 
 ## JS Plugins
+
 Sort/Filter tables - http://www.listjs.com/
 
 Autocomplete (couldn't make the demo work) - https://leaverou.github.io/awesomplete/
@@ -21,6 +25,8 @@ Polyfill for Picture Element (Go Retina!) - http://scottjehl.github.io/picturefi
 
 
 ## CSS Skinning
+
 Animation gallery - http://anicollection.github.io/#/
+
 Responsive CSS - http://bradfrost.com/demo/ish/
 
