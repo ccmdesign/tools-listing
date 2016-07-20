@@ -7,6 +7,11 @@ http://www.3pillarglobal.com/insights/accessibility-testing-tools-and-techniques
 
 https://tenon.io/testNow.php?url=http://demo.citizenbudget.com/
 
+https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en
+
+http://khan.github.io/tota11y/
+
+http://allyjs.io/
 
 ## Templating
 
