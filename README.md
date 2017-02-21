@@ -28,6 +28,8 @@ WYSWYG editor - http://quilljs.com/
 
 Polyfill for Picture Element (Go Retina!) - http://scottjehl.github.io/picturefill/
 
+Multiselect - https://github.com/Fabianlindfors/multi.js
+
 
 ## CSS Skinning
 
