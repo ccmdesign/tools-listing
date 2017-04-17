@@ -30,6 +30,10 @@ Polyfill for Picture Element (Go Retina!) - http://scottjehl.github.io/picturefi
 
 Multiselect - https://github.com/Fabianlindfors/multi.js
 
+Client-side Search - http://elasticlunr.com/
+
+sketch(particles) - http://soulwire.github.io/sketch.js/
+
 
 ## CSS Skinning
 
@@ -40,6 +44,8 @@ Animation gallery - http://anicollection.github.io/#/
 Responsive CSS - http://bradfrost.com/demo/ish/
 
 Styleguide as a Service - http://runway-app.cfapps.io/guest_styleguides/new
+
+SVG Logos - https://simpleicons.org/
 
 
 ## D3
