@@ -51,7 +51,7 @@ SVG Logos - https://simpleicons.org/
 ## D3
 
 Pre-processing D3 (Gulp) - https://github.com/fivethirtyeight/d3-pre
-
+Brite Charts - https://eventbrite.github.io/britecharts/
 
 ## Maps
 http://jvectormap.com/maps/world/africa/
