@@ -47,6 +47,8 @@ Styleguide as a Service - http://runway-app.cfapps.io/guest_styleguides/new
 
 SVG Logos - https://simpleicons.org/
 
+Text Size Plugin - https://github.com/rikschennink/fitty
+
 
 ## D3
 
