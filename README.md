@@ -49,6 +49,8 @@ SVG Logos - https://simpleicons.org/
 
 Text Size Plugin - https://github.com/rikschennink/fitty
 
+Text Animations - http://tobiasahlin.com/moving-letters/
+
 
 ## D3
 
