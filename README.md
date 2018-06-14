@@ -57,6 +57,10 @@ Text Size Plugin - https://github.com/rikschennink/fitty
 Text Animations - http://tobiasahlin.com/moving-letters/
 
 
+# Annotation
+https://hypothes.is/
+
+
 ## D3
 
 Pre-processing D3 (Gulp) - https://github.com/fivethirtyeight/d3-pre
