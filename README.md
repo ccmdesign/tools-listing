@@ -70,6 +70,7 @@ Brite Charts - https://eventbrite.github.io/britecharts/
 ## Maps
 http://jvectormap.com/maps/world/africa/
 http://kartograph.org/
+http://datamaps.github.io/
 
 ## Headless CMS
 https://getcockpit.com/documentation/getting-started/introduction (open source)
