@@ -56,6 +56,8 @@ Text Size Plugin - https://github.com/rikschennink/fitty
 
 Text Animations - http://tobiasahlin.com/moving-letters/
 
+SVG Animations - https://www.svgator.com/?utm_source=facebook&utm_medium=banner&utm_campaign=fb_adillustr_beta
+
 
 # Annotation
 https://hypothes.is/
